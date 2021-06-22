@@ -25,6 +25,19 @@ do {
 }while(c<10);
 cout<<endl;
 c=0;
+
+//Pierina Mejía Hurtado
+do{
+	suma[c]=matriz1[c]+matriz2[c];
+	cout<<suma[c];
+	
+	c=c+1;
+	cout<<" - ";
+
+}while(c<10);
+c=0;
+cout<<endl;
+
   //Diana Espinal Marin
 	do{
 	resta[c]=matriz1[c]-matriz2[c];
