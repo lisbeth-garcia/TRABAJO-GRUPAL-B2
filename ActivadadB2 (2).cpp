@@ -54,7 +54,9 @@ do{
 c=0;
 cout<<endl;
 //Fernando Cajiao Multiplicacion de dos matrices
-	do{
+	
+cout<<"La multiplicacion de las dos matrices es: "<<endl;
+do{
 	producto[c]=matriz1[c]*matriz2[c];
 	cout<<producto[c];
 	
