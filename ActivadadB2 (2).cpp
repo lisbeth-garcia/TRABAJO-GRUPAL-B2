@@ -41,7 +41,9 @@ c=0;
 cout<<endl;
 
   //Diana Espinal Marin
-	do{
+	
+cout<<"La resta de las dos matrices es: "<<endl;
+do{
 	resta[c]=matriz1[c]-matriz2[c];
 	cout<<resta[c];
 	
