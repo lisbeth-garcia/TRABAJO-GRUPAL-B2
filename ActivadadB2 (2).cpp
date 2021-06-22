@@ -27,6 +27,8 @@ cout<<endl;
 c=0;
 
 //Pierina Mejía Hurtado
+
+cout<<"La suma de las dos matrices es: "<<endl;
 do{
 	suma[c]=matriz1[c]+matriz2[c];
 	cout<<suma[c];
