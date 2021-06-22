@@ -52,3 +52,14 @@ cout<<endl;
 return 0;
 
 }
+//Fernando Cajiao Multiplicacion de dos matrices
+	do{
+	producto[c]=matriz1[c]*matriz2[c];
+	cout<<producto[c];
+	
+	c=c+1;
+	cout<<" - ";
+
+}while(c<10);
+c=0;
+cout<<endl;
