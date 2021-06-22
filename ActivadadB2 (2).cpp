@@ -25,7 +25,17 @@ do {
 }while(c<10);
 cout<<endl;
 c=0;
-  
+  //Diana Espinal Marin
+	do{
+	resta[c]=matriz1[c]-matriz2[c];
+	cout<<resta[c];
+	
+	c=c+1;
+	cout<<" - ";
+
+}while(c<10);
+c=0;
+cout<<endl;
 return 0;
 
 }
