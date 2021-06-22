@@ -66,9 +66,9 @@ do{
 }while(c<10);
 c=0;
 cout<<endl;
-// Carlos Mero  Division de dos matrices 
+// Carlos Mero  Division de dos matrices
 
-  cout<<"la division de dos matrices "<<endl;
+cout<<"la division de las dos matrices están: "<<endl;
 
   for (c=0;c<10;c++){
 	division[c]=matriz1[c]/matriz2[c];
