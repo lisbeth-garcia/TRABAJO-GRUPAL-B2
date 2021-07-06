@@ -1,4 +1,8 @@
+//*********************************************************************
 //Garcia lopez lisbeth Mostrar por pantalla los elementos de la matriz.
+// Revisados 2021-07-06
+//*********************************************************************
+
 #include<iostream>
 using namespace std;
 int main()
@@ -25,8 +29,10 @@ do {
 }while(c<10);
 cout<<endl;
 c=0;
-
+//********************************
 //Pierina Mejía Hurtado
+// Revisados 2021-07-06
+//********************************
 
 cout<<"La suma de las dos matrices es: "<<endl;
 do{
@@ -39,8 +45,11 @@ do{
 }while(c<10);
 c=0;
 cout<<endl;
+//*****************************************
+//Diana Espinal Marin
+// Revisados 2021-07-06
+//*****************************************
 
-  //Diana Espinal Marin
 	
 cout<<"La resta de las dos matrices es: "<<endl;
 do{
@@ -53,8 +62,11 @@ do{
 }while(c<10);
 c=0;
 cout<<endl;
+//***************************************************
 //Fernando Cajiao Multiplicacion de dos matrices
-	
+// Revisados 2021-07-06
+//***************************************************
+
 cout<<"La multiplicacion de las dos matrices es: "<<endl;
 do{
 	producto[c]=matriz1[c]*matriz2[c];
@@ -66,7 +78,10 @@ do{
 }while(c<10);
 c=0;
 cout<<endl;
+//*****************************************
 // Carlos Mero  Division de dos matrices
+// Revisados 2021-07-06
+//*****************************************
 
 cout<<"la division de las dos matrices están: "<<endl;
 
